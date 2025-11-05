@@ -3,7 +3,8 @@ Chicago Premier Dental is a fully responsive, elegant and modern website designe
 
 **Link to project:** https://chicagopremierdental.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+<img width="2546" height="1106" alt="image" src="https://github.com/user-attachments/assets/e899b7cf-0441-4ff9-83c3-884b6b5d7532" />
+
 
 ## How It's Made:
 
@@ -20,3 +21,4 @@ To further optimize the Chicago Premier Dental website, I will implement efficie
 ## Lessons Learned:
 
 I gained valuable insights into creating a user-friendly and responsive website, understanding the importance of inclusive design principles to accomodate users with diverse needs. This project sharpened my skills in utilizing SCSS for more efficient styling and reinforced the significance of responsive web design in delivering a modern and accessible user experience.
+
