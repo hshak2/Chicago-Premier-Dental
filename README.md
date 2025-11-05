@@ -1,21 +1,22 @@
 # Chicago Premier Dental Clinic
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
+Chicago Premier Dental is a fully responsive, elegant and modern website designed for an upscale clinic, located in the heart of Chicago. The site showcases the clinic's services and promotes inclusivity in a visually appealing and user-friendly manner.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://chicagopremierdental.netlify.app/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript, Framework of choice
+**Tech used:** HTML, CSS, JavaScript, SCSS, jQuery
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+I built the Chicago Premier Dental website to be fully responsive, blending elegance with modern design principles. The website's layout and styling were crafted using a combination of HTML and CSS, with SCSS providing a more maintainable and structured approach to stylesheets. JavaScript and jQuery were utilized to enhance the website's interactivity and dynamic features.
+
+Throughout the development process, I focused on creating an inclusive design that caters to a diverse audience. Leveraging responsive techniques, I ensured a seamless experience across various devices using mobile-first principles.
 
 ## Optimizations
-*(optional)*
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
+To further optimize the Chicago Premier Dental website, I will implement efficient coding practices and optimized assets for faster loading times. The use of jQuery was streamlined to enhance performance, and responsive design strategies were fine-tuned to provide an optimal viewing experience across devices.
 
 ## Lessons Learned:
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
+I gained valuable insights into creating a user-friendly and responsive website, understanding the importance of inclusive design principles to accomodate users with diverse needs. This project sharpened my skills in utilizing SCSS for more efficient styling and reinforced the significance of responsive web design in delivering a modern and accessible user experience.
